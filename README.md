@@ -6,8 +6,12 @@ Edit on example branch
 
 Updates made on main on github before rebase
 
+<<<<<<< HEAD
 ## Repositry Purpose 
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+This file is just a readme file.
+=======
+
+
+
+>>>>>>> 94d6cb7c29342a8af730eae270d4873504284769
